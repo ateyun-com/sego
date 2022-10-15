@@ -13,7 +13,7 @@ Go中文分词
 # 安装/更新
 
 ```
-go get -u github.com/huichen/sego
+go get -u github.com/ateyun-com/sego
 ```
 
 # 使用
@@ -24,7 +24,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/huichen/sego"
+	"github.com/ateyun-com/sego"
 )
 
 func main() {
